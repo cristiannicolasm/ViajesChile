@@ -1,0 +1,23 @@
+
+body {
+    background-color: #000000;
+}
+
+
+/**Quienes somos**/
+#quienes-somos {
+    
+}
+
+#quienes-somos hr , #destacados hr , #contacto hr {
+    height: 1px;
+    background-color: #17A3B8;
+}
+
+#quienes-somos i {
+    width: 100%;
+}
+
+#destacados .card-body {
+    background-color: #17A3B8;
+}
