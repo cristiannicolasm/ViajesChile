@@ -30,3 +30,7 @@ body {
 #footer h2 {
     
 }
+
+.img-responsive {
+    max-height: 40px;
+}
